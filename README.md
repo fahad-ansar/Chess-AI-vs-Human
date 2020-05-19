@@ -1,4 +1,4 @@
-# Cryptography-using-Genetic-Algo
+# Cryptography-using-Genetic-Algorithm
 Research based assignment which decrypts cipher by using Genetic algorithm for searching the key.
 
 ## How to run
