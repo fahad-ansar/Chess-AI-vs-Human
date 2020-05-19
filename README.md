@@ -1,5 +1,9 @@
-# Cryptography-using-Genetic-Algorithm
-Research based assignment which decrypts cipher by using Genetic algorithm for searching the key.
+### Chess AI vs Human
+This is chess game desgined and implemented using Minimax Descision rule
+It has three modes
+ - Human vs Human
+ - Human vs AI
+ - Human vs Human (You can define board state and start from there)
 
 ## How to run
 
